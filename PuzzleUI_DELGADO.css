@@ -1,0 +1,6 @@
+
+.background-img {
+    -fx-background-image: url('background-img.gif');
+    -fx-background-size: cover;
+}
+
